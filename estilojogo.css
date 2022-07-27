@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.tela{
+    display: flex;
+    justify-content: center;
+}
+p{
+    color: purple;
+    font-family: sans-serif;
+    border: purple solid 2px;
+    font-size: 20px;
+    position: fixed;
+    z-index: 10;
+    margin-left: 10%;
+    background-color: white;
+}
+
+button{
+    background-color: black;
+    color: red;
+    border-style: outset;
+    border-color: red;
+    height: 30px;
+    width: 80px;
+    font: sans-serif 15px;
+    font-family: sans-serif;
+    text-shadow: none;
+    margin-left: 50%;
+    margin-top: 10px;
+}
